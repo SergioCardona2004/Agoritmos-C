@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Números_Mayor_Menor", "..\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\Números_Mayor_Menor.csproj", "{23A73327-7A93-4150-87E0-D080E46D79D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A73327-7A93-4150-87E0-D080E46D79D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A73327-7A93-4150-87E0-D080E46D79D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A73327-7A93-4150-87E0-D080E46D79D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A73327-7A93-4150-87E0-D080E46D79D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF50F698-8D38-4927-B011-5D303696712D}
+	EndGlobalSection
+EndGlobal

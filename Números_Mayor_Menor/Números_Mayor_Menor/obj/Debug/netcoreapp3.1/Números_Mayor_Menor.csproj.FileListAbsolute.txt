@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\bin\Debug\netcoreapp3.1\Números_Mayor_Menor.exe
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\bin\Debug\netcoreapp3.1\Números_Mayor_Menor.deps.json
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\bin\Debug\netcoreapp3.1\Números_Mayor_Menor.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\bin\Debug\netcoreapp3.1\Números_Mayor_Menor.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\bin\Debug\netcoreapp3.1\Números_Mayor_Menor.dll
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\bin\Debug\netcoreapp3.1\Números_Mayor_Menor.pdb
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\obj\Debug\netcoreapp3.1\Números_Mayor_Menor.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\obj\Debug\netcoreapp3.1\Números_Mayor_Menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\obj\Debug\netcoreapp3.1\Números_Mayor_Menor.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\obj\Debug\netcoreapp3.1\Números_Mayor_Menor.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\obj\Debug\netcoreapp3.1\Números_Mayor_Menor.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\obj\Debug\netcoreapp3.1\Números_Mayor_Menor.dll
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\obj\Debug\netcoreapp3.1\Números_Mayor_Menor.pdb
+C:\Sena\Algoritmos_Car\Números_Mayor_Menor\Números_Mayor_Menor\obj\Debug\netcoreapp3.1\Números_Mayor_Menor.genruntimeconfig.cache

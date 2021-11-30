@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.exe
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.deps.json
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.runtimeconfig.json
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.dll
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.pdb
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.dll
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.pdb
+C:\Sena\Algoritmos_Car\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.genruntimeconfig.cache

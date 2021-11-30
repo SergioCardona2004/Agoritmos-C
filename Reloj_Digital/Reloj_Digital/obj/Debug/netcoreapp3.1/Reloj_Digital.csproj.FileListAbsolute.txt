@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\bin\Debug\netcoreapp3.1\Reloj_Digital.exe
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\bin\Debug\netcoreapp3.1\Reloj_Digital.deps.json
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\bin\Debug\netcoreapp3.1\Reloj_Digital.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\bin\Debug\netcoreapp3.1\Reloj_Digital.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\bin\Debug\netcoreapp3.1\Reloj_Digital.dll
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\bin\Debug\netcoreapp3.1\Reloj_Digital.pdb
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\obj\Debug\netcoreapp3.1\Reloj_Digital.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\obj\Debug\netcoreapp3.1\Reloj_Digital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\obj\Debug\netcoreapp3.1\Reloj_Digital.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\obj\Debug\netcoreapp3.1\Reloj_Digital.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\obj\Debug\netcoreapp3.1\Reloj_Digital.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\obj\Debug\netcoreapp3.1\Reloj_Digital.dll
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\obj\Debug\netcoreapp3.1\Reloj_Digital.pdb
+C:\Sena\Algoritmos_Car\Reloj_Digital\Reloj_Digital\obj\Debug\netcoreapp3.1\Reloj_Digital.genruntimeconfig.cache

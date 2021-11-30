@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\bin\Debug\netcoreapp3.1\Frase_Invertida.exe
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\bin\Debug\netcoreapp3.1\Frase_Invertida.deps.json
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\bin\Debug\netcoreapp3.1\Frase_Invertida.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\bin\Debug\netcoreapp3.1\Frase_Invertida.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\bin\Debug\netcoreapp3.1\Frase_Invertida.dll
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\bin\Debug\netcoreapp3.1\Frase_Invertida.pdb
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\obj\Debug\netcoreapp3.1\Frase_Invertida.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\obj\Debug\netcoreapp3.1\Frase_Invertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\obj\Debug\netcoreapp3.1\Frase_Invertida.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\obj\Debug\netcoreapp3.1\Frase_Invertida.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\obj\Debug\netcoreapp3.1\Frase_Invertida.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\obj\Debug\netcoreapp3.1\Frase_Invertida.dll
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\obj\Debug\netcoreapp3.1\Frase_Invertida.pdb
+C:\Sena\Algoritmos_Car\Frase_Invertida\Frase_Invertida\obj\Debug\netcoreapp3.1\Frase_Invertida.genruntimeconfig.cache

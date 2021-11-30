@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Vocales\Vocales\bin\Debug\netcoreapp3.1\Vocales.exe
+C:\Sena\Algoritmos_Car\Vocales\Vocales\bin\Debug\netcoreapp3.1\Vocales.deps.json
+C:\Sena\Algoritmos_Car\Vocales\Vocales\bin\Debug\netcoreapp3.1\Vocales.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Vocales\Vocales\bin\Debug\netcoreapp3.1\Vocales.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Vocales\Vocales\bin\Debug\netcoreapp3.1\Vocales.dll
+C:\Sena\Algoritmos_Car\Vocales\Vocales\bin\Debug\netcoreapp3.1\Vocales.pdb
+C:\Sena\Algoritmos_Car\Vocales\Vocales\obj\Debug\netcoreapp3.1\Vocales.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Vocales\Vocales\obj\Debug\netcoreapp3.1\Vocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Vocales\Vocales\obj\Debug\netcoreapp3.1\Vocales.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Vocales\Vocales\obj\Debug\netcoreapp3.1\Vocales.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Vocales\Vocales\obj\Debug\netcoreapp3.1\Vocales.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Vocales\Vocales\obj\Debug\netcoreapp3.1\Vocales.dll
+C:\Sena\Algoritmos_Car\Vocales\Vocales\obj\Debug\netcoreapp3.1\Vocales.pdb
+C:\Sena\Algoritmos_Car\Vocales\Vocales\obj\Debug\netcoreapp3.1\Vocales.genruntimeconfig.cache

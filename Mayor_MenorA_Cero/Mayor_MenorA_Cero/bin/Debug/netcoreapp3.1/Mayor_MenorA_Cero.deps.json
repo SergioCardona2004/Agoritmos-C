@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mayor_MenorA_Cero/1.0.0": {
+        "runtime": {
+          "Mayor_MenorA_Cero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mayor_MenorA_Cero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

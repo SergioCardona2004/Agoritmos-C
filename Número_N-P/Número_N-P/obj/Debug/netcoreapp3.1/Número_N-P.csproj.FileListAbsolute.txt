@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\bin\Debug\netcoreapp3.1\Número_N-P.exe
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\bin\Debug\netcoreapp3.1\Número_N-P.deps.json
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\bin\Debug\netcoreapp3.1\Número_N-P.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\bin\Debug\netcoreapp3.1\Número_N-P.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\bin\Debug\netcoreapp3.1\Número_N-P.dll
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\bin\Debug\netcoreapp3.1\Número_N-P.pdb
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\obj\Debug\netcoreapp3.1\Número_N-P.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\obj\Debug\netcoreapp3.1\Número_N-P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\obj\Debug\netcoreapp3.1\Número_N-P.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\obj\Debug\netcoreapp3.1\Número_N-P.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\obj\Debug\netcoreapp3.1\Número_N-P.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\obj\Debug\netcoreapp3.1\Número_N-P.dll
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\obj\Debug\netcoreapp3.1\Número_N-P.pdb
+C:\Sena\Algoritmos_Car\Número_N-P\Número_N-P\obj\Debug\netcoreapp3.1\Número_N-P.genruntimeconfig.cache

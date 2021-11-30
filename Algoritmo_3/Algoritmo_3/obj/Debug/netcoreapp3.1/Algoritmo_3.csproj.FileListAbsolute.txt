@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\bin\Debug\netcoreapp3.1\Algoritmo_3.exe
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\bin\Debug\netcoreapp3.1\Algoritmo_3.deps.json
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\bin\Debug\netcoreapp3.1\Algoritmo_3.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\bin\Debug\netcoreapp3.1\Algoritmo_3.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\bin\Debug\netcoreapp3.1\Algoritmo_3.dll
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\bin\Debug\netcoreapp3.1\Algoritmo_3.pdb
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\obj\Debug\netcoreapp3.1\Algoritmo_3.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\obj\Debug\netcoreapp3.1\Algoritmo_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\obj\Debug\netcoreapp3.1\Algoritmo_3.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\obj\Debug\netcoreapp3.1\Algoritmo_3.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\obj\Debug\netcoreapp3.1\Algoritmo_3.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\obj\Debug\netcoreapp3.1\Algoritmo_3.dll
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\obj\Debug\netcoreapp3.1\Algoritmo_3.pdb
+C:\Sena\Algoritmos_Car\Algoritmo_3\Algoritmo_3\obj\Debug\netcoreapp3.1\Algoritmo_3.genruntimeconfig.cache

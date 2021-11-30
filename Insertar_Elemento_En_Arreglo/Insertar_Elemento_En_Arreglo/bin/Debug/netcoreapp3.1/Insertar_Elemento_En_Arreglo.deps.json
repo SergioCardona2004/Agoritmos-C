@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Insertar_Elemento_En_Arreglo/1.0.0": {
+        "runtime": {
+          "Insertar_Elemento_En_Arreglo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Insertar_Elemento_En_Arreglo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

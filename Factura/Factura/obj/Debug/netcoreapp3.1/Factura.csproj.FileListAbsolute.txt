@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.exe
+C:\Sena\Algoritmos_Car\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.deps.json
+C:\Sena\Algoritmos_Car\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.dll
+C:\Sena\Algoritmos_Car\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.pdb
+C:\Sena\Algoritmos_Car\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.dll
+C:\Sena\Algoritmos_Car\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.pdb
+C:\Sena\Algoritmos_Car\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.genruntimeconfig.cache

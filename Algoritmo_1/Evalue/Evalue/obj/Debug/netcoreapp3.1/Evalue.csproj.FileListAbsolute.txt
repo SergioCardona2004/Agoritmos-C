@@ -1,0 +1,13 @@
+C:\Users\SENA\source\repos\Evalue\Evalue\bin\Debug\netcoreapp3.1\Evalue.exe
+C:\Users\SENA\source\repos\Evalue\Evalue\bin\Debug\netcoreapp3.1\Evalue.deps.json
+C:\Users\SENA\source\repos\Evalue\Evalue\bin\Debug\netcoreapp3.1\Evalue.runtimeconfig.json
+C:\Users\SENA\source\repos\Evalue\Evalue\bin\Debug\netcoreapp3.1\Evalue.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\Evalue\Evalue\bin\Debug\netcoreapp3.1\Evalue.dll
+C:\Users\SENA\source\repos\Evalue\Evalue\bin\Debug\netcoreapp3.1\Evalue.pdb
+C:\Users\SENA\source\repos\Evalue\Evalue\obj\Debug\netcoreapp3.1\Evalue.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\Evalue\Evalue\obj\Debug\netcoreapp3.1\Evalue.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Evalue\Evalue\obj\Debug\netcoreapp3.1\Evalue.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Evalue\Evalue\obj\Debug\netcoreapp3.1\Evalue.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Evalue\Evalue\obj\Debug\netcoreapp3.1\Evalue.dll
+C:\Users\SENA\source\repos\Evalue\Evalue\obj\Debug\netcoreapp3.1\Evalue.pdb
+C:\Users\SENA\source\repos\Evalue\Evalue\obj\Debug\netcoreapp3.1\Evalue.genruntimeconfig.cache

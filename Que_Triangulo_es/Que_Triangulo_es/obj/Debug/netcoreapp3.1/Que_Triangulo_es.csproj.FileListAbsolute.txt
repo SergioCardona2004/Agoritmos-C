@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\bin\Debug\netcoreapp3.1\Que_Triangulo_es.exe
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\bin\Debug\netcoreapp3.1\Que_Triangulo_es.deps.json
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\bin\Debug\netcoreapp3.1\Que_Triangulo_es.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\bin\Debug\netcoreapp3.1\Que_Triangulo_es.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\bin\Debug\netcoreapp3.1\Que_Triangulo_es.dll
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\bin\Debug\netcoreapp3.1\Que_Triangulo_es.pdb
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\obj\Debug\netcoreapp3.1\Que_Triangulo_es.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\obj\Debug\netcoreapp3.1\Que_Triangulo_es.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\obj\Debug\netcoreapp3.1\Que_Triangulo_es.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\obj\Debug\netcoreapp3.1\Que_Triangulo_es.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\obj\Debug\netcoreapp3.1\Que_Triangulo_es.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\obj\Debug\netcoreapp3.1\Que_Triangulo_es.dll
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\obj\Debug\netcoreapp3.1\Que_Triangulo_es.pdb
+C:\Sena\Algoritmos_Car\Que_Triangulo_es\Que_Triangulo_es\obj\Debug\netcoreapp3.1\Que_Triangulo_es.genruntimeconfig.cache

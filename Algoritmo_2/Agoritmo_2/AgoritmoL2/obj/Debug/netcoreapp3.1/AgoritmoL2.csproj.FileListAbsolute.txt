@@ -1,0 +1,12 @@
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\bin\Debug\netcoreapp3.1\AgoritmoL2.exe
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\bin\Debug\netcoreapp3.1\AgoritmoL2.deps.json
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\bin\Debug\netcoreapp3.1\AgoritmoL2.runtimeconfig.json
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\bin\Debug\netcoreapp3.1\AgoritmoL2.runtimeconfig.dev.json
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\bin\Debug\netcoreapp3.1\AgoritmoL2.dll
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\bin\Debug\netcoreapp3.1\AgoritmoL2.pdb
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\obj\Debug\netcoreapp3.1\AgoritmoL2.AssemblyInfoInputs.cache
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\obj\Debug\netcoreapp3.1\AgoritmoL2.AssemblyInfo.cs
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\obj\Debug\netcoreapp3.1\AgoritmoL2.csproj.CoreCompileInputs.cache
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\obj\Debug\netcoreapp3.1\AgoritmoL2.dll
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\obj\Debug\netcoreapp3.1\AgoritmoL2.pdb
+D:\ADSI 070\Algoritmos Carlos\AgoritmoL2\AgoritmoL2\obj\Debug\netcoreapp3.1\AgoritmoL2.genruntimeconfig.cache

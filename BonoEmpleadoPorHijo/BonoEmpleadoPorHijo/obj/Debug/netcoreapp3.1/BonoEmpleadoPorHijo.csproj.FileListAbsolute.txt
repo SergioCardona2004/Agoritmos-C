@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\bin\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.exe
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\bin\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.deps.json
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\bin\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.runtimeconfig.json
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\bin\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\bin\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.dll
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\bin\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.pdb
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\obj\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\obj\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\obj\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\obj\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\obj\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\obj\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.dll
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\obj\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.pdb
+C:\Sena\Algoritmos_Car\BonoEmpleadoPorHijo\BonoEmpleadoPorHijo\obj\Debug\netcoreapp3.1\BonoEmpleadoPorHijo.genruntimeconfig.cache

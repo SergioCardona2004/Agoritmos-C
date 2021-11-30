@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\bin\Debug\netcoreapp3.1\Suma_Consecutiva.exe
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\bin\Debug\netcoreapp3.1\Suma_Consecutiva.deps.json
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\bin\Debug\netcoreapp3.1\Suma_Consecutiva.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\bin\Debug\netcoreapp3.1\Suma_Consecutiva.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\bin\Debug\netcoreapp3.1\Suma_Consecutiva.dll
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\bin\Debug\netcoreapp3.1\Suma_Consecutiva.pdb
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\obj\Debug\netcoreapp3.1\Suma_Consecutiva.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\obj\Debug\netcoreapp3.1\Suma_Consecutiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\obj\Debug\netcoreapp3.1\Suma_Consecutiva.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\obj\Debug\netcoreapp3.1\Suma_Consecutiva.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\obj\Debug\netcoreapp3.1\Suma_Consecutiva.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\obj\Debug\netcoreapp3.1\Suma_Consecutiva.dll
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\obj\Debug\netcoreapp3.1\Suma_Consecutiva.pdb
+C:\Sena\Algoritmos_Car\Suma_Consecutiva\Suma_Consecutiva\obj\Debug\netcoreapp3.1\Suma_Consecutiva.genruntimeconfig.cache

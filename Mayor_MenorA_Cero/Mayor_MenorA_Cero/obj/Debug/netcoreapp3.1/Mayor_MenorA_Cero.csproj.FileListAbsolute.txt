@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\bin\Debug\netcoreapp3.1\Mayor_MenorA_Cero.exe
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\bin\Debug\netcoreapp3.1\Mayor_MenorA_Cero.deps.json
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\bin\Debug\netcoreapp3.1\Mayor_MenorA_Cero.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\bin\Debug\netcoreapp3.1\Mayor_MenorA_Cero.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\bin\Debug\netcoreapp3.1\Mayor_MenorA_Cero.dll
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\bin\Debug\netcoreapp3.1\Mayor_MenorA_Cero.pdb
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\obj\Debug\netcoreapp3.1\Mayor_MenorA_Cero.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\obj\Debug\netcoreapp3.1\Mayor_MenorA_Cero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\obj\Debug\netcoreapp3.1\Mayor_MenorA_Cero.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\obj\Debug\netcoreapp3.1\Mayor_MenorA_Cero.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\obj\Debug\netcoreapp3.1\Mayor_MenorA_Cero.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\obj\Debug\netcoreapp3.1\Mayor_MenorA_Cero.dll
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\obj\Debug\netcoreapp3.1\Mayor_MenorA_Cero.pdb
+C:\Sena\Algoritmos_Car\Mayor_MenorA_Cero\Mayor_MenorA_Cero\obj\Debug\netcoreapp3.1\Mayor_MenorA_Cero.genruntimeconfig.cache

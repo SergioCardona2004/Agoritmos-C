@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\bin\Debug\netcoreapp3.1\Abecedario_Inverso.exe
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\bin\Debug\netcoreapp3.1\Abecedario_Inverso.deps.json
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\bin\Debug\netcoreapp3.1\Abecedario_Inverso.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\bin\Debug\netcoreapp3.1\Abecedario_Inverso.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\bin\Debug\netcoreapp3.1\Abecedario_Inverso.dll
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\bin\Debug\netcoreapp3.1\Abecedario_Inverso.pdb
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\obj\Debug\netcoreapp3.1\Abecedario_Inverso.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\obj\Debug\netcoreapp3.1\Abecedario_Inverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\obj\Debug\netcoreapp3.1\Abecedario_Inverso.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\obj\Debug\netcoreapp3.1\Abecedario_Inverso.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\obj\Debug\netcoreapp3.1\Abecedario_Inverso.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\obj\Debug\netcoreapp3.1\Abecedario_Inverso.dll
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\obj\Debug\netcoreapp3.1\Abecedario_Inverso.pdb
+C:\Sena\Algoritmos_Car\Abecedario_Inverso\Abecedario_Inverso\obj\Debug\netcoreapp3.1\Abecedario_Inverso.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Número_intermedio/1.0.0": {
+        "runtime": {
+          "Número_intermedio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Número_intermedio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

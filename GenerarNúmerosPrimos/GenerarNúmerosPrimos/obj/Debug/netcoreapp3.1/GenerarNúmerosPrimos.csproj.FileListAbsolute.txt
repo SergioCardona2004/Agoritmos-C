@@ -1,0 +1,14 @@
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\bin\Debug\netcoreapp3.1\GenerarNúmerosPrimos.exe
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\bin\Debug\netcoreapp3.1\GenerarNúmerosPrimos.deps.json
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\bin\Debug\netcoreapp3.1\GenerarNúmerosPrimos.runtimeconfig.json
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\bin\Debug\netcoreapp3.1\GenerarNúmerosPrimos.runtimeconfig.dev.json
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\bin\Debug\netcoreapp3.1\GenerarNúmerosPrimos.dll
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\bin\Debug\netcoreapp3.1\GenerarNúmerosPrimos.pdb
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\obj\Debug\netcoreapp3.1\GenerarNúmerosPrimos.csproj.AssemblyReference.cache
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\obj\Debug\netcoreapp3.1\GenerarNúmerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\obj\Debug\netcoreapp3.1\GenerarNúmerosPrimos.AssemblyInfoInputs.cache
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\obj\Debug\netcoreapp3.1\GenerarNúmerosPrimos.AssemblyInfo.cs
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\obj\Debug\netcoreapp3.1\GenerarNúmerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\obj\Debug\netcoreapp3.1\GenerarNúmerosPrimos.dll
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\obj\Debug\netcoreapp3.1\GenerarNúmerosPrimos.pdb
+C:\Users\sergio ac\source\repos\GenerarNúmerosPrimos\GenerarNúmerosPrimos\obj\Debug\netcoreapp3.1\GenerarNúmerosPrimos.genruntimeconfig.cache

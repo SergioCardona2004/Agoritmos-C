@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\obj\Debug\netcoreapp3.1\DesglosedeBilletes.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\obj\Debug\netcoreapp3.1\DesglosedeBilletes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\obj\Debug\netcoreapp3.1\DesglosedeBilletes.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\obj\Debug\netcoreapp3.1\DesglosedeBilletes.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\obj\Debug\netcoreapp3.1\DesglosedeBilletes.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\bin\Debug\netcoreapp3.1\DesglosedeBilletes.exe
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\bin\Debug\netcoreapp3.1\DesglosedeBilletes.deps.json
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\bin\Debug\netcoreapp3.1\DesglosedeBilletes.runtimeconfig.json
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\bin\Debug\netcoreapp3.1\DesglosedeBilletes.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\bin\Debug\netcoreapp3.1\DesglosedeBilletes.dll
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\bin\Debug\netcoreapp3.1\DesglosedeBilletes.pdb
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\obj\Debug\netcoreapp3.1\DesglosedeBilletes.dll
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\obj\Debug\netcoreapp3.1\DesglosedeBilletes.pdb
+C:\Sena\Algoritmos_Car\DesglosedeBilletes\DesglosedeBilletes\obj\Debug\netcoreapp3.1\DesglosedeBilletes.genruntimeconfig.cache

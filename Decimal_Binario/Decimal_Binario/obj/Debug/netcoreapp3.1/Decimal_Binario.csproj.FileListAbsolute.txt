@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\bin\Debug\netcoreapp3.1\Decimal_Binario.exe
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\bin\Debug\netcoreapp3.1\Decimal_Binario.deps.json
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\bin\Debug\netcoreapp3.1\Decimal_Binario.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\bin\Debug\netcoreapp3.1\Decimal_Binario.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\bin\Debug\netcoreapp3.1\Decimal_Binario.dll
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\bin\Debug\netcoreapp3.1\Decimal_Binario.pdb
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\obj\Debug\netcoreapp3.1\Decimal_Binario.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\obj\Debug\netcoreapp3.1\Decimal_Binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\obj\Debug\netcoreapp3.1\Decimal_Binario.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\obj\Debug\netcoreapp3.1\Decimal_Binario.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\obj\Debug\netcoreapp3.1\Decimal_Binario.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\obj\Debug\netcoreapp3.1\Decimal_Binario.dll
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\obj\Debug\netcoreapp3.1\Decimal_Binario.pdb
+C:\Sena\Algoritmos_Car\Decimal_Binario\Decimal_Binario\obj\Debug\netcoreapp3.1\Decimal_Binario.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\bin\Debug\netcoreapp3.1\Algotimo.exe
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\bin\Debug\netcoreapp3.1\Algotimo.deps.json
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\bin\Debug\netcoreapp3.1\Algotimo.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\bin\Debug\netcoreapp3.1\Algotimo.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\bin\Debug\netcoreapp3.1\Algotimo.dll
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\bin\Debug\netcoreapp3.1\Algotimo.pdb
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\obj\Debug\netcoreapp3.1\Algotimo.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\obj\Debug\netcoreapp3.1\Algotimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\obj\Debug\netcoreapp3.1\Algotimo.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\obj\Debug\netcoreapp3.1\Algotimo.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\obj\Debug\netcoreapp3.1\Algotimo.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\obj\Debug\netcoreapp3.1\Algotimo.dll
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\obj\Debug\netcoreapp3.1\Algotimo.pdb
+C:\Sena\Algoritmos_Car\Algotimo\Algotimo\obj\Debug\netcoreapp3.1\Algotimo.genruntimeconfig.cache

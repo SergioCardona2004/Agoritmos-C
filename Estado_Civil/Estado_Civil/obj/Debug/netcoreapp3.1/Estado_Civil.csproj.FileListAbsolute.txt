@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\bin\Debug\netcoreapp3.1\Estado_Civil.exe
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\bin\Debug\netcoreapp3.1\Estado_Civil.deps.json
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\bin\Debug\netcoreapp3.1\Estado_Civil.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\bin\Debug\netcoreapp3.1\Estado_Civil.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\bin\Debug\netcoreapp3.1\Estado_Civil.dll
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\bin\Debug\netcoreapp3.1\Estado_Civil.pdb
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\obj\Debug\netcoreapp3.1\Estado_Civil.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\obj\Debug\netcoreapp3.1\Estado_Civil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\obj\Debug\netcoreapp3.1\Estado_Civil.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\obj\Debug\netcoreapp3.1\Estado_Civil.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\obj\Debug\netcoreapp3.1\Estado_Civil.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\obj\Debug\netcoreapp3.1\Estado_Civil.dll
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\obj\Debug\netcoreapp3.1\Estado_Civil.pdb
+C:\Sena\Algoritmos_Car\Estado_Civil\Estado_Civil\obj\Debug\netcoreapp3.1\Estado_Civil.genruntimeconfig.cache

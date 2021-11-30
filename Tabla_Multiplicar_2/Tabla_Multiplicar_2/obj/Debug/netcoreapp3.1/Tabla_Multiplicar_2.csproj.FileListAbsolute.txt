@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\bin\Debug\netcoreapp3.1\Tabla_Multiplicar_2.exe
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\bin\Debug\netcoreapp3.1\Tabla_Multiplicar_2.deps.json
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\bin\Debug\netcoreapp3.1\Tabla_Multiplicar_2.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\bin\Debug\netcoreapp3.1\Tabla_Multiplicar_2.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\bin\Debug\netcoreapp3.1\Tabla_Multiplicar_2.dll
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\bin\Debug\netcoreapp3.1\Tabla_Multiplicar_2.pdb
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\obj\Debug\netcoreapp3.1\Tabla_Multiplicar_2.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\obj\Debug\netcoreapp3.1\Tabla_Multiplicar_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\obj\Debug\netcoreapp3.1\Tabla_Multiplicar_2.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\obj\Debug\netcoreapp3.1\Tabla_Multiplicar_2.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\obj\Debug\netcoreapp3.1\Tabla_Multiplicar_2.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\obj\Debug\netcoreapp3.1\Tabla_Multiplicar_2.dll
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\obj\Debug\netcoreapp3.1\Tabla_Multiplicar_2.pdb
+C:\Sena\Algoritmos_Car\Tabla_Multiplicar_2\Tabla_Multiplicar_2\obj\Debug\netcoreapp3.1\Tabla_Multiplicar_2.genruntimeconfig.cache

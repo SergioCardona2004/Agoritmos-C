@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\obj\Debug\netcoreapp3.1\Número_intermedio.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\obj\Debug\netcoreapp3.1\Número_intermedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\obj\Debug\netcoreapp3.1\Número_intermedio.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\obj\Debug\netcoreapp3.1\Número_intermedio.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\obj\Debug\netcoreapp3.1\Número_intermedio.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\bin\Debug\netcoreapp3.1\Número_intermedio.exe
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\bin\Debug\netcoreapp3.1\Número_intermedio.deps.json
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\bin\Debug\netcoreapp3.1\Número_intermedio.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\bin\Debug\netcoreapp3.1\Número_intermedio.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\bin\Debug\netcoreapp3.1\Número_intermedio.dll
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\bin\Debug\netcoreapp3.1\Número_intermedio.pdb
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\obj\Debug\netcoreapp3.1\Número_intermedio.dll
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\obj\Debug\netcoreapp3.1\Número_intermedio.pdb
+C:\Sena\Algoritmos_Car\Número_intermedio\Número_intermedio\obj\Debug\netcoreapp3.1\Número_intermedio.genruntimeconfig.cache

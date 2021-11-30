@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\bin\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.exe
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\bin\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.deps.json
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\bin\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\bin\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\bin\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.dll
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\bin\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.pdb
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\obj\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\obj\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\obj\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\obj\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\obj\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\obj\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.dll
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\obj\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.pdb
+C:\Sena\Algoritmos_Car\Intercalar_Mayus_Minus\Intercalar_Mayus_Minus\obj\Debug\netcoreapp3.1\Intercalar_Mayus_Minus.genruntimeconfig.cache

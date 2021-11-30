@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Números_Mayor_Menor/1.0.0": {
+        "runtime": {
+          "Números_Mayor_Menor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Números_Mayor_Menor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

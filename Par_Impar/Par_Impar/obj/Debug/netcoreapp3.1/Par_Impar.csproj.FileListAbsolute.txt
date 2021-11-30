@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.exe
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.deps.json
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.dll
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.pdb
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.dll
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.pdb
+C:\Sena\Algoritmos_Car\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.genruntimeconfig.cache

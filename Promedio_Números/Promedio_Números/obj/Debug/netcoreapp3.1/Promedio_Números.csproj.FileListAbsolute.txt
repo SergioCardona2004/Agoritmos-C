@@ -1,0 +1,14 @@
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\bin\Debug\netcoreapp3.1\Promedio_Números.exe
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\bin\Debug\netcoreapp3.1\Promedio_Números.deps.json
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\bin\Debug\netcoreapp3.1\Promedio_Números.runtimeconfig.json
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\bin\Debug\netcoreapp3.1\Promedio_Números.runtimeconfig.dev.json
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\bin\Debug\netcoreapp3.1\Promedio_Números.dll
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\bin\Debug\netcoreapp3.1\Promedio_Números.pdb
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\obj\Debug\netcoreapp3.1\Promedio_Números.csproj.AssemblyReference.cache
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\obj\Debug\netcoreapp3.1\Promedio_Números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\obj\Debug\netcoreapp3.1\Promedio_Números.AssemblyInfoInputs.cache
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\obj\Debug\netcoreapp3.1\Promedio_Números.AssemblyInfo.cs
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\obj\Debug\netcoreapp3.1\Promedio_Números.csproj.CoreCompileInputs.cache
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\obj\Debug\netcoreapp3.1\Promedio_Números.dll
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\obj\Debug\netcoreapp3.1\Promedio_Números.pdb
+C:\Sena\Algoritmos_Car\Promedio_Números\Promedio_Números\obj\Debug\netcoreapp3.1\Promedio_Números.genruntimeconfig.cache
